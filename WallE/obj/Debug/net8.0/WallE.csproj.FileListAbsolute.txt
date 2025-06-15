@@ -1,0 +1,14 @@
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.AssemblyInfoInputs.cache
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.AssemblyInfo.cs
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.csproj.CoreCompileInputs.cache
+D:\Pro\LD\WallE\bin\Debug\net8.0\WallE.exe
+D:\Pro\LD\WallE\bin\Debug\net8.0\WallE.deps.json
+D:\Pro\LD\WallE\bin\Debug\net8.0\WallE.runtimeconfig.json
+D:\Pro\LD\WallE\bin\Debug\net8.0\WallE.dll
+D:\Pro\LD\WallE\bin\Debug\net8.0\WallE.pdb
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.dll
+D:\Pro\LD\WallE\obj\Debug\net8.0\refint\WallE.dll
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.pdb
+D:\Pro\LD\WallE\obj\Debug\net8.0\WallE.genruntimeconfig.cache
+D:\Pro\LD\WallE\obj\Debug\net8.0\ref\WallE.dll
